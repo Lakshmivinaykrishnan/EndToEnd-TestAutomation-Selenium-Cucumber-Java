@@ -10,13 +10,13 @@ The framework is designed to automate functional testing of web applications, pr
 
 ##  Tech Stack
 
-- **Programming Language**: Java
-- **Automation Framework**: Selenium WebDriver
-- **BDD Framework**: Cucumber
-- **Build Tool**: Maven 
-- **Test Runner**: JUnit 
-- **Reporting**: Cucumber Reports 
-- **Browser Drivers**: ChromeDriver, GeckoDriver (Firefox)
+- Programming Language: Java
+- Automation Framework: Selenium WebDriver
+- BDD Framework: Cucumber
+- Build Tool: Maven 
+- Test Runner: JUnit 
+- Reporting: Cucumber Reports 
+- Browser Drivers: ChromeDriver, GeckoDriver (Firefox)
 
 ---
 
